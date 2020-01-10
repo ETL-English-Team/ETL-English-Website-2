@@ -1,0 +1,30 @@
+.question-img{
+    width: 150px;
+    height: 150px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+}
+
+.question-content{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.btn-send-answer{
+    width: 200px;
+    margin: 10px;
+    height: 35px;
+}
+
+.top-chart-img{
+    width: 20px;
+    height: 20px;
+}
+
+.btn-next-question{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

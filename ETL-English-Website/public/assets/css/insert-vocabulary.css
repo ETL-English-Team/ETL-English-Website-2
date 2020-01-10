@@ -1,0 +1,28 @@
+.form-control{
+    border: 1px solid #bbbbbb;
+}
+
+.input-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.input-title{
+    top: 50%;
+    bottom: 50%;
+}
+
+.btn-insert-topic{
+    width: 100%;
+    height: 35px;
+}
+
+.format-warning{
+    color: red;
+}
+
+.format-sound-warning{
+    color: red;
+}

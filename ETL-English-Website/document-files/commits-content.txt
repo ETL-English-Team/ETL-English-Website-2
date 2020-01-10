@@ -1,0 +1,81 @@
+DANH SACH CAC LAN BACKUP MA NGUON
+_________________________________________________________________________________
+Ten commit: Backup lan do an 3 lan 1
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 13:00 15/10/2019
+Noi dung da thuc hien:
+		------Tao cau truc thu muc laravel
+_________________________________________________________________________________
+Ten commit: Backup do an 3 lan 2
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 17:00 15/10/2019
+Noi dung da thuc hien:
+		------Code trang home
+		------Code trang level_list
+_________________________________________________________________________________
+Ten commit: Backup do an 3 lan 3
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 00:30 20/10/2019
+Noi dung da thuc hien:
+		------Tao thu muc document-files
+		------Tao file commits-content.txt
+		------Tao file csdl.txt
+_________________________________________________________________________________
+Ten commit: Backup lan 4
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 12:50 21/10/2019
+Noi dung da thuc hien:
+		------Tao thu muc tu-vung trong document-files
+		------Them 4 file pdf trong thu muc tu vung
+_________________________________________________________________________________
+Ten commit: Backup lan 5
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 23:30 22/10/2019
+Noi dung da thuc hien:
+		------Update file csdl.txt (Xóa bảng Word_Type)
+		------Tạo file vocabulary.blade.php, vocabulary.css
+_________________________________________________________________________________
+Ten commit: Backup lan 6
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 00:13 23/10/2019
+Noi dung da thuc hien:
+		------Tao file play-audio.js
+		------Update file vocabulary.blade.php (code chuc nang click item --> xoay + phat am thanh)
+_________________________________________________________________________________
+Ten commit: Backup lan 7
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 12:10 30/10/2019
+Noi dung da thuc hien:
+		------Fix vocabulary.blade.php (Sửa lỗi hiển thị ô từ vựng vocabulary)
+_________________________________________________________________________________
+Ten commit: Backup lan 8
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 09:35 03/11/2019
+Noi dung da thuc hien:
+		------Them noi dung file HocLaravel.docx
+_________________________________________________________________________________
+Ten commit: Backup lan 9
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 12:56 21/11/2019
+Noi dung da thuc hien:
+		------Them mot so file giao dien
+_________________________________________________________________________________
+Ten commit: Backup lan 10
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 21:35 27/11/2019
+Noi dung da thuc hien:
+		------Them mot so file giao dien
+		------Tao cac file model, controller
+_________________________________________________________________________________
+Ten commit: Backup lan 11
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 21:35 27/11/2019
+Noi dung da thuc hien:
+		------Code mot so chuc nag
+_________________________________________________________________________________
+Ten commit: Backup lan 11
+Nguoi thuc hien: Nguyen Hoang Phuc
+Thoi gian thuc hien: 21:35 30/11/2019
+Noi dung da thuc hien:
+		------Doi CSDL
+_________________________________________________________________________________
